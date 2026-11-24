@@ -112,5 +112,14 @@ The long-term goal of EcoSim is to develop an ecosystem simulator that demonstra
 - Object-Oriented Programming (OOP)
 - GitHub
 
+**Mesaage to Sir Roy**
+As scholars we strive to find ways to help our environment and also preserve the way nature should be. With our project we can help simulate ecosystems without having to go outside and with our project we can apply what we learnt when we our older and further help the environment. Sir Roy has been inspiring as well with the way he teaches and this gave us motivation to do this project along with SocSci's environmental citizenship. We hope to use what we learnt from Sir Roy and apply it for the betterment of our country. 
 
+**Our Signatures**
+
+
+<img width="1393" height="1031" alt="1000036484" src="https://github.com/user-attachments/assets/ecdaba8c-fd51-4b3f-bd2d-8d3d4cba87f5" />
+<img width="943" height="556" alt="1000036485" src="https://github.com/user-attachments/assets/ddf53a27-6f95-4db5-826c-a9dfe1f40677" />
+<img width="2816" height="1816" alt="1000036487" src="https://github.com/user-attachments/assets/5ad833e6-20b9-4f3c-8c19-3f7f1d2087b8" />
+ 
 
